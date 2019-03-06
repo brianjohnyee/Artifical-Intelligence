@@ -1,2 +1,1 @@
-# Artifical-Intelligence
-# Progamming assignments
+# Artifical-Intelligence Programming assignments
