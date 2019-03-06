@@ -1,1 +1,1 @@
-# Artifical-Intelligence Programming assignments
+# Artifical-Intelligence Programming Assignments
